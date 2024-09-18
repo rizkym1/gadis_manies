@@ -401,7 +401,7 @@ h2 {
     color: #fff;
 }
 #kontak {
-    background-image: url(../Assets/gadis.jpg);
+    background-image: url(../img/gadis.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     margin-top: 160px;
@@ -502,4 +502,11 @@ footer p {
     -moz-border-radius: 999px;
     border-radius: 999px;
 	max-width: 100%;
+}
+
+#login {
+    background-image: url(../Assets/gadis.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 160px;
 }
